@@ -1,2 +1,4 @@
 # hello-world
-Just the first practice about it
+HI AI,
+
+looking forward to see you!
